@@ -1,3 +1,4 @@
 # JavaScript-Calculator
-As part of freeCodeCamp's front-end development curriculum, this is the JavaScript Calculator project.
+JavaScript Calculator web site built as part of freeCodeCamp's Front End Development projects.
+
 Link: https://sjcuofa.github.io/JavaScript-Calculator/
