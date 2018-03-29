@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+body {
+  background-color: #3066EE;
+}
+h2 {
+  font-family: 'Press Start 2P', cursive;
+  margin: 10px;
+  text-align: center;
+  color: White;
+}
+h5 {
+  font-family: 'Press Start 2P', cursive;    
+  text-align: center;
+  color: White;
+}
+#calculator {
+  position: relative;
+  background-color: LightBlue;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+
+button {
+  font-family: 'Press Start 2P', cursive;
+  width: 80px;
+  height: 60px;  
+  background-image: linear-gradient(to bottom, #FFFFFF, #CBCBCB);  
+  transition-duration: 0.3s;
+}
+button:hover {
+  background-image: linear-gradient(to bottom, #BABABA, #808080);
+}
+
+#myButtons {
+  position: relative;
+  margin: auto;
+  width: 332px;
+}
+
+#lcd-display {
+  font-family: 'Press Start 2P', cursive;
+  background-color: BlanchedAlmond;
+  text-align: right;
+  font-size: 42px;
+  height: 60px;
+  width: 340px;
+  margin: auto;
+}
+
+#memory-display {
+  font-family: 'Press Start 2P', cursive;
+  background-color: BlanchedAlmond;
+  text-align: right;
+  height: 20px;
+  width: 340px;
+  margin: auto;
+}
+
+#btnEquals {
+}
+
+#btnAC {
+  width: 164px;
+}
+
+#btnZero {
+  width: 164px;
+}
