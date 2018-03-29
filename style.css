@@ -47,6 +47,7 @@ button:hover {
   height: 60px;
   width: 340px;
   margin: auto;
+  padding-top: 4px;
 }
 
 #memory-display {
